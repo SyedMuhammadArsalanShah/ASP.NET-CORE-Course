@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lecture03ConventionBasedRouting.props" />
+</Project>

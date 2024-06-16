@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture03ConventionBasedRouting", "Lecture03ConventionBasedRouting\Lecture03ConventionBasedRouting.csproj", "{55496F8E-A89D-4A24-AC9B-4B4648E24187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55496F8E-A89D-4A24-AC9B-4B4648E24187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55496F8E-A89D-4A24-AC9B-4B4648E24187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55496F8E-A89D-4A24-AC9B-4B4648E24187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55496F8E-A89D-4A24-AC9B-4B4648E24187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA848D2-0EF4-424C-8FC0-D6FC7974A859}
+	EndGlobalSection
+EndGlobal

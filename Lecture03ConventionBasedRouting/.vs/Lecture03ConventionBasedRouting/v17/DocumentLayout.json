@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|i:\\asp.netcoremvc\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|solutionrelative:lecture03conventionbasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|i:\\asp.netcoremvc\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|solutionrelative:lecture03conventionbasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|i:\\asp.netcoremvc\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|solutionrelative:lecture03conventionbasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|i:\\asp.netcoremvc\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|solutionrelative:lecture03conventionbasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|i:\\asp.netcoremvc\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting\\lecture03conventionbasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55496F8E-A89D-4A24-AC9B-4B4648E24187}|Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj|solutionrelative:lecture03conventionbasedrouting\\lecture03conventionbasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lecture03ConventionBasedRouting\\Views\\Home\\About.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lecture03ConventionBasedRouting\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:48:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture03ConventionBasedRouting\\Program.cs",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Program.cs",
+              "RelativeToolTip": "Lecture03ConventionBasedRouting\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:44:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture03ConventionBasedRouting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture03ConventionBasedRouting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T19:44:27.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture03ConventionBasedRouting\\Controllers\\HomeController.cs",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture03ConventionBasedRouting\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:42:49.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lecture03ConventionBasedRouting",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj",
+              "RelativeDocumentMoniker": "Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj",
+              "RelativeToolTip": "Lecture03ConventionBasedRouting\\Lecture03ConventionBasedRouting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T19:42:08.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
