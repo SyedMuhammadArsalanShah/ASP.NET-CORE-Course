@@ -1,0 +1,195 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+   
+@* 
+*******Main Razor Syntax Rules for C# *******
+Razor code blocks are enclosed in @{ ... }
+Inline expressions (variables and functions) start with @
+Code statements end with semicolon
+Variables are declared with the var keyword
+Strings are enclosed with quotation marks
+C# code is case sensitive
+C# files have the extension .cshtml *@
+
+<h1>Date By Razor</h1>
+<h2>Today DateTime.Now</h2>
+<h2>Today @DateTime.Now</h2>
+<h2>Year  @DateTime.Now.Year</h2>
+
+
+@{
+    var name = "SMAS";
+    var age = 50;
+    var subject = "CS";
+
+
+    var num1 = 2;
+    var num2 = 3;
+    var ans = num1 * num2;
+
+
+
+}
+
+<h1>Introduction</h1>
+<h2>Name @name</h2>
+<h3>Age @age</h3>
+<h4>Subject @subject </h4>
+
+
+<h1>Calculation</h1>
+<h5>Answer @ans </h5>
+
+
+<h1>Conditional Statement | if/else </h1>
+<h2>EX #01 </h2>
+
+@if (num1 > 0)
+{
+    <h4>positive</h4>
+}
+else
+{
+    <h4>negative</h4>
+
+}
+
+
+<h2>EX #02 </h2>
+@if (DateTime.IsLeapYear(DateTime.Now.Year))
+{
+
+	<h4> @DateTime.Now.Year is leap year    </h4>
+
+
+
+
+}
+else
+{
+
+	<h4> @DateTime.Now.Year is not leap year    </h4>
+
+
+}
+
+
+<h1>Conditional Statement | switch case </h1>
+
+@{
+	string vowelss = "a";
+	string msg;
+
+}
+@switch (vowelss)
+{
+	case "A":
+	case "a":
+
+		{
+			msg = "its vowel";
+			break;
+
+		}
+
+	case "E":
+	case "e":
+		{
+			msg = "its vowel";
+			break;
+		}
+
+	case "I":
+	case "i":
+		{
+			msg = "its vowel";
+			break;
+		}
+	case "O":
+	case "o":
+		{
+
+
+			msg = "its vowel";
+			break;
+		}
+	case "U":
+	case "u":
+		{
+			msg = "its vowel";
+			break;
+		}
+
+
+	default:
+		{
+			msg = "its not vowel";
+		}
+		break;
+}
+
+
+<p>@msg</p>
+
+
+
+
+<h1>Loop | for</h1>
+
+@for (int i = 0; i <= 10; i++)
+{
+    <h5>@i</h5>
+}
+
+
+<h1>Loop | while</h1>
+
+@{
+    int a = 0;
+
+    while (a <= 10)
+    {
+        <h6>@a</h6>
+
+        a++;
+    }
+
+
+	<h1>Loop | dowhile</h1>
+    int b = 11;
+
+    do
+    {
+
+        <h6>do while loop @a</h6>
+        b++;
+
+    } while (b<=10);
+
+
+
+
+	<h1>Loop | foreach</h1>
+
+
+
+    String[] students = { "Hamza", "Sana ", "Misbah", "yousuf chatgpt", "saaria khamosh", "Muneeba" };
+
+    <ol type="A">
+        @foreach (var item in students)
+        {
+            <li>@item</li>
+
+        }
+    </ol>
+
+
+
+}
+

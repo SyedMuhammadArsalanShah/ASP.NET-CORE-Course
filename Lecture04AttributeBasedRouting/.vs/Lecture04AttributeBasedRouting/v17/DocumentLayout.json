@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\lecture04attributebasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\lecture04attributebasedrouting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|i:\\asp.netcoremvc\\lecture04attributebasedrouting\\lecture04attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B84D0E74-C882-4B1A-9A9D-9D1638A24AC4}|Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj|solutionrelative:lecture04attributebasedrouting\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lecture04AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lecture04AttributeBasedRouting\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T12:18:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Lecture04AttributeBasedRouting\\Views\\Home\\Index.cshtml",
@@ -43,21 +60,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Lecture04AttributeBasedRouting\\Controllers\\HomeController.cs",
               "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Lecture04AttributeBasedRouting\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T20:47:38.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lecture04AttributeBasedRouting",
+              "DocumentIndex": 3,
+              "Title": "Lecture04AttributeBasedRouting.csproj",
               "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj",
               "RelativeDocumentMoniker": "Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj",
               "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting.csproj",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Program.cs",
               "RelativeDocumentMoniker": "Lecture04AttributeBasedRouting\\Program.cs",
               "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture04AttributeBasedRouting\\Lecture04AttributeBasedRouting\\Program.cs",
               "RelativeToolTip": "Lecture04AttributeBasedRouting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T20:12:58.54Z",
               "EditorCaption": ""

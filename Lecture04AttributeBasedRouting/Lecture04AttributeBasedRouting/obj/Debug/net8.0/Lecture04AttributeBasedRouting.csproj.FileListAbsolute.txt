@@ -219,3 +219,5 @@ I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\
 I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\obj\Debug\net8.0\Lecture04AttributeBasedRouting.pdb
 I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\obj\Debug\net8.0\Lecture04AttributeBasedRouting.genruntimeconfig.cache
 I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\obj\Debug\net8.0\ref\Lecture04AttributeBasedRouting.dll
+I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\obj\Debug\net8.0\Lecture04AttributeBasedRouting.RazorAssemblyInfo.cache
+I:\ASP.NetCoreMVC\Lecture04AttributeBasedRouting\Lecture04AttributeBasedRouting\obj\Debug\net8.0\Lecture04AttributeBasedRouting.RazorAssemblyInfo.cs

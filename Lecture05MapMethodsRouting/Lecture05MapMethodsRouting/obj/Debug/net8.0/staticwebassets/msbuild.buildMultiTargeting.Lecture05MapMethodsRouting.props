@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lecture05MapMethodsRouting.props" />
+</Project>

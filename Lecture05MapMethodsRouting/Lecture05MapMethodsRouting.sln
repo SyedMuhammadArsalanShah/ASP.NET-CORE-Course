@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lecture05MapMethodsRouting", "Lecture05MapMethodsRouting\Lecture05MapMethodsRouting.csproj", "{F876BF79-7BFA-4B46-965C-C94C56916955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F876BF79-7BFA-4B46-965C-C94C56916955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F876BF79-7BFA-4B46-965C-C94C56916955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F876BF79-7BFA-4B46-965C-C94C56916955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F876BF79-7BFA-4B46-965C-C94C56916955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67D2763-5A4A-4E31-A208-8C31D950E660}
+	EndGlobalSection
+EndGlobal

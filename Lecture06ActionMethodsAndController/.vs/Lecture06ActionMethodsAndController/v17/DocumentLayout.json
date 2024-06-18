@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|i:\\asp.netcoremvc\\lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|solutionrelative:lecture06actionmethodsandcontroller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|i:\\asp.netcoremvc\\lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|solutionrelative:lecture06actionmethodsandcontroller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|i:\\asp.netcoremvc\\lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|solutionrelative:lecture06actionmethodsandcontroller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|i:\\asp.netcoremvc\\lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54EFCB85-FAE0-4F16-9BED-7C07DAEFC747}|Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj|solutionrelative:lecture06actionmethodsandcontroller\\lecture06actionmethodsandcontroller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture06ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture06ActionMethodsAndController\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:46:11.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lecture06ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lecture06ActionMethodsAndController\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:45:02.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture06ActionMethodsAndController",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj",
+              "RelativeDocumentMoniker": "Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj",
+              "RelativeToolTip": "Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T13:44:45.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture06ActionMethodsAndController\\Program.cs",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture06ActionMethodsAndController\\Lecture06ActionMethodsAndController\\Program.cs",
+              "RelativeToolTip": "Lecture06ActionMethodsAndController\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:43:43.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
