@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|i:\\asp.netcoremvc\\lecture08_layoutandviewstartpage\\lecture08_layoutandviewstartpage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|solutionrelative:lecture08_layoutandviewstartpage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|i:\\asp.netcoremvc\\lecture08_layoutandviewstartpage\\lecture08_layoutandviewstartpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|solutionrelative:lecture08_layoutandviewstartpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|i:\\asp.netcoremvc\\lecture08_layoutandviewstartpage\\lecture08_layoutandviewstartpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BDEFE59-1FB9-403C-B0DE-43B08E822797}|Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage.csproj|solutionrelative:lecture08_layoutandviewstartpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lecture08_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lecture08_LayoutAndViewStartPage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T15:05:46.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lecture08_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lecture08_LayoutAndViewStartPage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T15:05:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lecture08_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "I:\\ASP.NetCoreMVC\\Lecture08_LayoutAndViewStartPage\\Lecture08_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lecture08_LayoutAndViewStartPage\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T15:02:33.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
