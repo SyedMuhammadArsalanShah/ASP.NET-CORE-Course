@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Lecture09ViewData_TempData_ViewBag.props" />
-</Project>
